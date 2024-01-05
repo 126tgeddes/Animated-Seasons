@@ -6,14 +6,14 @@
 
 h2{
     font-family: 'Bebas Neue', sans-serif;
-    color: rgb(253, 126, 7);
+    color: rgb(30, 128, 173)
 }
 
 section{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: radial-gradient(#333,#000);
+    background: radial-gradient(white,lightblue);
     overflow:hidden;
     display: flex;
     justify-content: center;
